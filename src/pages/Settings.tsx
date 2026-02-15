@@ -148,7 +148,7 @@ export default function Settings() {
                     )}
                 </button>
                 {seedResult && (
-                    <div className="success-banner" style={{ marginTop: 'var(--space-4)' }}>
+                    <div className={seedResult.startsWith('エラー') ? 'error-banner' : 'success-banner'} style={{ marginTop: 'var(--space-4)' }}>
                         {seedResult}
                     </div>
                 )}

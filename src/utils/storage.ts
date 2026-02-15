@@ -198,13 +198,11 @@ export function getSeedData(): AppData {
     return { clients, projects, activities, meetingNotes };
 }
 
-// サンプルデータを保存
+// サンプルデータを保存（逐次実行：GitHub API の競合を回避）
 export async function seedData(): Promise<void> {
     const data = getSeedData();
-    await Promise.all([
-        saveClients(data.clients),
-        saveProjects(data.projects),
-        saveActivities(data.activities),
-        saveMeetingNotes(data.meetingNotes),
-    ]);
+    await saveClients(data.clients);
+    await saveProjects(data.projects);
+    await saveActivities(data.activities);
+    await saveMeetingNotes(data.meetingNotes);
 }
