@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a1",
+    "projectId": "p1",
+    "clientId": "c1",
+    "type": "meeting",
+    "title": "初回ヒアリング",
+    "description": "現状の業務フローについて確認。デジタル化の優先領域を議論。",
+    "date": "2026-02-10",
+    "createdAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "a2",
+    "projectId": "p3",
+    "clientId": "c1",
+    "type": "appointment",
+    "title": "中間報告会",
+    "description": "IT戦略の中間レポートを報告。方向性について合意。",
+    "date": "2026-02-05",
+    "createdAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "a3",
+    "projectId": "p2",
+    "clientId": "c2",
+    "type": "call",
+    "title": "電話でのフォローアップ",
+    "description": "提案書の送付スケジュールについて確認。",
+    "date": "2026-02-11",
+    "createdAt": "2026-02-15T02:40:42.175Z"
+  }
+]
