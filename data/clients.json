@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c1",
+    "companyName": "株式会社サンプル商事",
+    "contactPerson": "田中 太郎",
+    "email": "tanaka@sample.co.jp",
+    "phone": "03-1234-5678",
+    "address": "東京都千代田区丸の内1-1-1",
+    "notes": "年間契約の可能性あり",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "c2",
+    "companyName": "合同会社テスト工業",
+    "contactPerson": "鈴木 花子",
+    "email": "suzuki@test-ind.co.jp",
+    "phone": "06-9876-5432",
+    "address": "大阪府大阪市北区梅田2-2-2",
+    "notes": "DX推進に関心あり",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "c3",
+    "companyName": "株式会社イノベーション",
+    "contactPerson": "佐藤 次郎",
+    "email": "sato@innovation.co.jp",
+    "phone": "052-111-2222",
+    "address": "愛知県名古屋市中区栄3-3-3",
+    "notes": "新規事業立ち上げ支援を検討中",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  }
+]
