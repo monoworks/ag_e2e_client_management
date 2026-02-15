@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "clientId": "c1",
+    "title": "DX推進コンサルティング",
+    "description": "業務プロセスのデジタル化支援",
+    "status": "proposal",
+    "amount": 5000000,
+    "startDate": "2026-03-01",
+    "endDate": "2026-08-31",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "p2",
+    "clientId": "c2",
+    "title": "組織改革プロジェクト",
+    "description": "組織体制の見直しと改善提案",
+    "status": "prospect",
+    "amount": 3000000,
+    "startDate": "2026-04-01",
+    "endDate": "2026-09-30",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "p3",
+    "clientId": "c1",
+    "title": "IT戦略策定支援",
+    "description": "中期IT戦略の策定支援",
+    "status": "won",
+    "amount": 8000000,
+    "startDate": "2026-01-01",
+    "endDate": "2026-06-30",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "id": "p4",
+    "clientId": "c3",
+    "title": "新規事業企画コンサル",
+    "description": "新規事業のフィージビリティスタディ",
+    "status": "negotiation",
+    "amount": 4500000,
+    "startDate": "2026-05-01",
+    "endDate": "2026-10-31",
+    "createdAt": "2026-02-15T02:40:42.175Z",
+    "updatedAt": "2026-02-15T02:40:42.175Z"
+  }
+]
