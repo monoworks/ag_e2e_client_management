@@ -46,5 +46,17 @@
     "endDate": "2026-10-31",
     "createdAt": "2026-02-15T02:40:42.175Z",
     "updatedAt": "2026-02-15T02:40:42.175Z"
+  },
+  {
+    "clientId": "c1",
+    "title": "ウクレレ制作",
+    "description": "ウクレレの制作に関するプロジェクト",
+    "status": "lost",
+    "amount": 2000000,
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-13",
+    "id": "mlonwpj6zcu0txnsqdl",
+    "createdAt": "2026-02-16T04:16:24.642Z",
+    "updatedAt": "2026-02-16T04:16:24.642Z"
   }
 ]
